@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dansanfranman
-- 👀 I’m interested in ... Unity game development, Unreal Engine development
-- 🌱 I’m currently learning ... Unity, Unreal Engine
-- 💞️ I’m looking to collaborate on ... Unity games! Any genre
+- 👀 I’m interested in ... Unity, Unreal Engine, IoT and Embedded
+- 🌱 I’m currently learning ... C++
+- 💞️ I’m looking to collaborate on ... Games or IoT hardware
 - 📫 How to reach me ... Email me at: dwestwood44@gmail.com
 
 <!---
