@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dansanfranman - Dan
+- 👋 Hi, I’m @dansanfranman - Dan Westwood
 - 👀 I’m interested in ... Low level and embedded, game engine development
 - 🌱 I’m currently learning ... OpenGL
 - 📫 How to reach me ... Email me at: dwestwood44@gmail.com
