@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dansanfranman
-- 👀 I’m interested in ... Unity, Unreal Engine, IoT and Embedded
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... Games or IoT hardware
+- 👋 Hi, I’m @dansanfranman - Dan
+- 👀 I’m interested in ... Low level and embedded, game engine development
+- 🌱 I’m currently learning ... OpenGL
 - 📫 How to reach me ... Email me at: dwestwood44@gmail.com
 
 <!---
