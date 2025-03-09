@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dansanfranman - Dan Westwood
 - 👀 I’m interested in ... Low level and embedded, game engine development
-- 🌱 I’m currently learning ... OpenGL
+- 🌱 I’m currently learning ... LOVE2D and Lua
 - 📫 How to reach me ... Email me at: dwestwood44@gmail.com
 
 <!---
